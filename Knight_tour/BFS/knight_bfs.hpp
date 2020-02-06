@@ -7,7 +7,6 @@
 #include <iterator> 
 #include <memory> 
 #include <queue>
-#include <memory>
 
 #define num_move 8
 
